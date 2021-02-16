@@ -11,10 +11,8 @@
 
 
 ### Connect with me:
-
-[<img align="left" alt="PabloAndresUrb3 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/PabloAndresUrb3]
-[<img align="left" alt="pablourbanodelacruz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
+<a href="https://twitter.com/PabloAndresUrb3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="PabloAndresUrb3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pablourbanodelacruz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diegofernandobetancourtquintero" height="30" width="40" /></a>
 <br />
 
 ### Languages and Tools:
