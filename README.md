@@ -1,8 +1,8 @@
-### Hi there, I'm Pablo Urbano
+### Hi there, I'm Pablo Urbano Software Developer
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PabloAndresUrb3?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhb4y&screen_name=PabloAndresUrb3)
 
-## I'm a Software Developer
+## A little about me
 
 - 10+ years of experience and currently working as freelance for a money transfer company
 - Currently learning ML & cloud technologies
